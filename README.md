@@ -1,36 +1,32 @@
-# MentePlena – Blog de Mindfulness y Bienestar
+# 🧘‍♀️ MentePlena – Blog de Mindfulness y Bienestar
 
-[🌐 Ver en vivo](https://menteplena.onrender.com)
+Bienvenidx a **MentePlena**, un blog minimalista y consciente que invita al bienestar emocional a través del mindfulness, la meditación y el diseño limpio.
 
----
-
-##  Descripción
-MentePlena es un blog minimalista que invita al bienestar emocional con mindfulness y meditación. (Aquí descripción, propósito).
-
----
-
-##  Screenshot
-![Home](ruta/menteplena.png)
-![Artículos](ruta/menteplena 2.png)
+🌐 Deploys en vivo:  
+- [Vercel](https://meditar.vercel.app/)  
+- [Render](https://meditar.onrender.com/)  
 
 ---
 
-##  Tecnologías
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- Lucide-react (íconos)
-- Serve (deploy)
-- Render (producción)
+## ✨ Descripción
+
+MentePlena es un proyecto web desarrollado con **Vite + React + TypeScript + Tailwind CSS**.  
+Su objetivo es ofrecer un espacio digital armónico, con un diseño claro y responsivo, enfocado en la calma y la serenidad.
 
 ---
 
-##  Para correr localmente
+## ⚙️ Tecnologías Utilizadas
 
-```bash
-git clone <tu repo>
-cd meditar
-npm install
-npm run dev        # desarrollo
-npm run build      # producción
-npm run start      # servidor estático
+- ⚛️ **React 18** + **TypeScript**
+- ⚡ **Vite 5** (build rápido y moderno)
+- 🎨 **Tailwind CSS 3.4**
+- 🔗 **Lucide-react** (íconos SVG)
+- 📦 **Serve** (para deploy estático)
+- 🚀 Deploy en **Render** y **Vercel**
+
+---
+
+>
+
+## 🧾 Estructura del Proyecto
+
