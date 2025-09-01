@@ -63,7 +63,8 @@ npm run build
 
 # 5. Servir estáticamente (opcional)
 npm run start
-📦 Deploy
+
+##  📦 Deploy
 
 En Render como Static Site:
 
@@ -81,7 +82,8 @@ Build Command: npm run build
 
 Output Directory: dist
 
-📌 Estado del Proyecto
+## 📌 Estado del Proyecto
+
 
 ✅ MVP listo
 ✨ Próximas mejoras:
@@ -96,4 +98,4 @@ Newsletter vía Supabase o Formspree
 
 💬 Autor
 
-Desarrollado con 💖 por @alejandrabarcena
+#  Desarrollado con 💖 por @alejandrabarcena
