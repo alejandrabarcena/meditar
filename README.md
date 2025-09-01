@@ -29,4 +29,71 @@ Su objetivo es ofrecer un espacio digital armónico, con un diseño claro y resp
 >
 
 ## 🧾 Estructura del Proyecto
+/public
+└── images/ # Screenshots y assets
+/src
+├── components/ # Componentes reutilizables
+├── pages/ # Vistas principales
+├── App.tsx
+└── main.tsx
+index.html
+tailwind.config.js
+vite.config.ts
+package.json
 
+
+
+---
+
+## 🚀 Cómo correrlo localmente
+
+```bash
+# 1. Clonar el repo
+git clone https://github.com/alejandrabarcena/meditar.git
+cd meditar
+
+# 2. Instalar dependencias
+npm install
+
+# 3. Ejecutar en modo desarrollo
+npm run dev
+
+# 4. Generar build de producción
+npm run build
+
+# 5. Servir estáticamente (opcional)
+npm run start
+📦 Deploy
+
+En Render como Static Site:
+
+Build Command: npm run build
+
+Start Command: npm run start
+
+Publish Directory: dist
+
+En Vercel:
+
+Framework: Vite
+
+Build Command: npm run build
+
+Output Directory: dist
+
+📌 Estado del Proyecto
+
+✅ MVP listo
+✨ Próximas mejoras:
+
+Blog dinámico (contenido desde API o Markdown)
+
+Dark Mode 🌙
+
+Audio de meditaciones 🎧
+
+Newsletter vía Supabase o Formspree
+
+💬 Autor
+
+Desarrollado con 💖 por @alejandrabarcena
