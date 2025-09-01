@@ -6,6 +6,12 @@ Bienvenidx a **MentePlena**, un blog minimalista y consciente que invita al bien
 - [Vercel](https://meditar.vercel.app/)  
 - [Render](https://meditar.onrender.com/)
 
+<img src="/images/menteplena1.png" alt="Vista de inicio de MentePlena" />
+<img src="/images/menteplena2.png" alt="Vista de artículos" />
+<img src="/images/menteplena3.png" alt="Vista de categorías" />
+<img src="/images/menteplena4.png" alt="Vista de acerca de" />
+<img src="/images/menteplena5.png" alt="Vista de contacto" />
+
 ---
 
 ## ✨ Descripción
