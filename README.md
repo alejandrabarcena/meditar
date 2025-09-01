@@ -6,13 +6,6 @@ Bienvenidx a **MentePlena**, un blog minimalista y consciente que invita al bien
 - [Vercel](https://meditar.vercel.app/)  
 - [Render](https://meditar.onrender.com/)
 
-![Vista principal](https://raw.githubusercontent.com/alejandrabarcena/meditar/main/public/images/menteplena1.png)
-![Artículos](https://raw.githubusercontent.com/alejandrabarcena/meditar/main/public/images/menteplena2.png)
-![Categorías](https://raw.githubusercontent.com/alejandrabarcena/meditar/main/public/images/menteplena3.png)
-![Acerca de](https://raw.githubusercontent.com/alejandrabarcena/meditar/main/public/images/menteplena4.png)
-![Contacto](https://raw.githubusercontent.com/alejandrabarcena/meditar/main/public/images/menteplena5.png)
-
-
 ---
 
 ## ✨ Descripción
